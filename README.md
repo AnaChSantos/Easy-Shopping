@@ -13,6 +13,12 @@
 <br>
 <img src="https://github.com/AnaChSantos/Easy-Shopping/blob/master/.vscode/desck.png?raw=true">
 
+### Modo Mobile:
+<br>
+<br>
+<img src="https://github.com/AnaChSantos/Easy-Shopping/blob/master/.vscode/mobi.png?raw=true">
+
+
 
 
 
